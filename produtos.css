@@ -1,0 +1,16 @@
+.interna_produtos {
+  background: url("../img/ban_produtos.jpg") no-repeat center;
+  background-size: cover;
+}
+
+.produto_item {
+  padding-top: 60px;
+} 
+
+.produto_item, .produto-info, .produto1 {
+  padding: 20px 0 0px 0;
+}
+
+.call {
+  padding-bottom: 50px;
+}
